@@ -5,6 +5,5 @@ def add(vab_x, var_y):
     """This function adds x and y and return their sum."""
     return vab_x + var_y
 
-var = 
 RESULT = add(3, 2)
 print(f"This is the sum of 3 and 2, which is {RESULT}")
